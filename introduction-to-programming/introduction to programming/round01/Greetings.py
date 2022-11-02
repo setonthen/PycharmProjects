@@ -1,5 +1,5 @@
-# name=input('Tell your name: ')
-# print('Hi',name,'\nyour coding skills are great!')
+name=input('Tell your name: ')
+print('Hi',name,'\nyour coding skills are great!')
 
 
 # x = int (input('enter a number less than 5: '))
@@ -15,7 +15,7 @@
 # print(type(y))
 
 
-x, y, z = "Orange", "Banana", "Cherry"
-print(x)
-print(y)
-print(z)
+# x, y, z = "Orange", "Banana", "Cherry"
+# print(x)
+# print(y)
+# print(z)
